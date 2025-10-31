@@ -1,0 +1,14 @@
+body {
+    max-width: 600px;
+    max-height: 400px;
+    width: 1000px;
+    height: 800px;
+    margin: 0;
+    background-color: black;
+}
+
+#content {
+    background-color: white;
+    width: 1000px;
+    height: 800px;
+}
